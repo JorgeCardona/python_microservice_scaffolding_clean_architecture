@@ -50,11 +50,14 @@ Repository with projects especially focused on Computer Science and Natural Scie
 ┃ ┣ 📂domain [package]
 ┃ ┃ ┣ 📂models [package]
 ┃ ┃ ┃ ┣ 📂entity_one
-┃ ┃ ┃ ┃ ┗ 🐍 Entity_ONE.py
+┃ ┃ ┃ ┃ ┗ 🐔 Model_ONE.py
+┃ ┃ ┃ ┃ ┗ 🐤 Schema_ONE.py
 ┃ ┃ ┃ ┣ 📂entity_two
-┃ ┃ ┃ ┃ ┗ 🐍 Entity_TWO.py
+┃ ┃ ┃ ┃ ┗ 🐔 Model_TWO.py
+┃ ┃ ┃ ┃ ┗ 🐤 Schema_TWO.py
 ┃ ┃ ┃ ┣ 📂entity_n
-┃ ┃ ┃ ┃ ┗ 🐍 Entity_N.py
+┃ ┃ ┃ ┃ ┗ 🐔 Model_N.py
+┃ ┃ ┃ ┃ ┗ 🐤 Schema_N.py
 ┃ ┃ ┣ 📂interfaces [package]
 ┃ ┃ ┃ ┗ 📂repositories [package]
 ┃ ┃ ┃ ┃ ┣ 📂repository_model_one
