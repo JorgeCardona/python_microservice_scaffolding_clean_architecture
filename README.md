@@ -130,7 +130,7 @@ is a package that contains modules, like Models and Schemas, the module it's a p
 are interfaces that contain only the methods that need to be implemented in the use cases one directory by class.
 - **Repository**: Contains modules with methods that are needed to communicate with the database by class.
 - **Business**: Contains modules with methods that are needed to process the information by class.
-- 
+
 # Use Cases
 is a package that contains modules, the module is a class that implements the methods from the package interfaces(Repository, Business) and defines the business logic by module.
 
